@@ -16,7 +16,8 @@ const images = [
   "rakhi11.jpeg",
   "rakhi12.jpeg",
   "rakhi13.jpeg",
-  "suprise.jpeg",
+  "rakhi14.jpeg",
+  "rakhi15.jpeg",
 ];
 
 const Gallery = () => {
