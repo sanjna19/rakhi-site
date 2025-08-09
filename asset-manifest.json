@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rakhi-site/static/css/main.de3d8c9a.css",
-    "main.js": "/rakhi-site/static/js/main.d831982f.js",
+    "main.js": "/rakhi-site/static/js/main.bf4e74ed.js",
     "static/js/453.ee80db01.chunk.js": "/rakhi-site/static/js/453.ee80db01.chunk.js",
     "index.html": "/rakhi-site/index.html",
     "main.de3d8c9a.css.map": "/rakhi-site/static/css/main.de3d8c9a.css.map",
-    "main.d831982f.js.map": "/rakhi-site/static/js/main.d831982f.js.map",
+    "main.bf4e74ed.js.map": "/rakhi-site/static/js/main.bf4e74ed.js.map",
     "453.ee80db01.chunk.js.map": "/rakhi-site/static/js/453.ee80db01.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de3d8c9a.css",
-    "static/js/main.d831982f.js"
+    "static/js/main.bf4e74ed.js"
   ]
 }
